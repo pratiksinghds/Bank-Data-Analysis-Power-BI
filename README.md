@@ -66,14 +66,9 @@ This project demonstrates a complete data analysis pipeline using banking data�
 ### 📁 Folder Structure
 
 ```
-├── data/
-│   ├── raw_excel/
-│   └── cleaned_csv/
-├── sql/
-│   └── schema_and_import.sql
-├── notebooks/
-│   └── analysis.ipynb
-├── dashboard/
-│   └── powerbi.pbix
-├── README.md
+├── Banking.csv                    # Banking dataset used for the analysis
+├── banking.ipynb                  # Data cleaning, transformation and EDA notebook
+├── Banking Dashboard(2025).pbix   # Power BI dashboard file
+├── LICENSE
+└── README.md
 ```
